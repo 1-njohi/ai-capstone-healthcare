@@ -1,0 +1,14 @@
+disease_id,disease_name,category,severity,contagious,treatable
+D001,flu,viral,MEDIUM,True,True
+D002,covid19,viral,HIGH,True,True
+D003,dengue,viral,HIGH,False,True
+D004,cardiac_event,cardiac,CRITICAL,False,True
+D005,diabetes,metabolic,MEDIUM,False,True
+D006,common_cold,viral,LOW,True,True
+D007,tuberculosis,bacterial,HIGH,True,True
+D008,meningitis,bacterial,CRITICAL,True,True
+D009,pneumonia,bacterial,HIGH,True,True
+D010,bronchitis,bacterial,MEDIUM,True,True
+D011,allergies,immune,LOW,False,True
+D012,gastroenteritis,viral,MEDIUM,True,True
+D013,strep_throat,bacterial,MEDIUM,True,True
