@@ -412,7 +412,7 @@ scipy>=1.11.0
 | Role      | Reg Number        | Name          | Module                                                    |
 | --------- | ----------------- | ------------- | --------------------------------------------------------- |
 | Team Lead | C026-01-2472/2024 | Denis Wanjohi | Agent, Integration, data, evaluation & Bayesian Network |
-| Member 2  | C026-01-0785/2023 | Wayne Omumia  | Knowledgebase, ML Classifier & Neural Network            |
+| Member 2  | C026-01-0785/2023 | Wayne Omumia  | Knowledgebase, ML Classifier & Neural Network           |
 | Member 3  | C026-01-0741/2024 | Ryan Mburu    | Fuzzy Logic & Planner                                     |
 
 ## 📞 Contact & Details
