@@ -1,4 +1,3 @@
-
 # 🏥 Intelligent Healthcare Diagnostic Assistant
 
 *An AI-powered healthcare diagnostic system that integrates multiple AI techniques including intelligent agents, logical inference, probabilistic reasoning, machine learning, deep learning, fuzzy logic, and AI planning.*
@@ -413,8 +412,8 @@ scipy>=1.11.0
 | Role      | Reg Number        | Name          | Module                                                  |
 | --------- | ----------------- | ------------- | ------------------------------------------------------- |
 | Team Lead | C026-01-2472/2024 | Denis Wanjohi | Agent, Integration, Knowledge Base & Bayesian Network |
-| Member 2  |                   | Wayne Omumia  | ML Classifier & Neural Network                          |
-| Member 3  |                   | Ryan         | Fuzzy Logic & Planner                                   |
+| Member 2  | C026-01-0785/2023 | Wayne Omumia  | ML Classifier & Neural Network                          |
+| Member 3  | C026-01-0741/2024 | Ryan Mburu    | Fuzzy Logic & Planner                                   |
 
 ## 📞 Contact & Details
 
